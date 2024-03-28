@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/628989424.svg)](https://zenodo.org/doi/10.5281/zenodo.10634731)
+
 # hagen reproducibility
 
 ## Manuscript, code and data
